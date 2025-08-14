@@ -32,5 +32,5 @@ this.greeting = function() {
 
 const userOne = new User("Neelam", 12, true)
 const userTwo = new User("Bianca", 11, false)
-console.log(userOne.constructor)
+console.log(userOne)
 //console.log(userTwo)
